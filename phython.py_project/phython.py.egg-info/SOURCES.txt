@@ -1,8 +1,0 @@
-dev-requirements.txt
-pyproject.toml
-phython.py.egg-info/PKG-INFO
-phython.py.egg-info/SOURCES.txt
-phython.py.egg-info/dependency_links.txt
-phython.py.egg-info/requires.txt
-phython.py.egg-info/top_level.txt
-tests/test_phython.py.py
