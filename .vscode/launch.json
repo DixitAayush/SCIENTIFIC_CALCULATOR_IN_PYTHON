@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Package: phython",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "phython"
+        },
+        {
+            "name": "Python Package: phython.py",
+            "type": "debugpy",
+            "request": "launch",
+            "module": "phython.py"
+        }
+    ]
+}
